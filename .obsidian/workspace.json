@@ -1,0 +1,228 @@
+{
+  "main": {
+    "id": "ca12c3293c349279",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa805f5d62d01f7d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "03385a59af296259",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ef762b63327b577b",
+    "type": "split",
+    "children": [
+      {
+        "id": "eaf312c4447d6152",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "044c685fb31abaae",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "c415c48a56d1d6b7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "7a05a9e4968e4e4d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1dd0d0a069deb4e3",
+    "type": "split",
+    "children": [
+      {
+        "id": "29f0fbeb05f7043b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f37164caf84d24d8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "1f0e67eb207ce993",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "822e4094e817fd2f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "b083926ba7f58462",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "85625038da1750f2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "044c685fb31abaae",
+  "lastOpenFiles": [
+    "machine learning/9.循环神经网络/9.4 RNN.md",
+    "machine learning/9.循环神经网络/9.3 语言模型.md",
+    "machine learning/9.循环神经网络/9.2 文本预处理.md",
+    "machine learning/9.循环神经网络/9.1 序列模型.md",
+    "machine learning/8.计算机视觉/trans_conv.svg",
+    "machine learning/8.计算机视觉/ssd.svg",
+    "machine learning/8.计算机视觉/r-cnn.svg",
+    "machine learning/8.计算机视觉/neural-style.svg",
+    "machine learning/8.计算机视觉/mask-rcnn.svg",
+    "machine learning/8.计算机视觉/iou.svg",
+    "machine learning/8.计算机视觉/finetune.svg",
+    "machine learning/8.计算机视觉/fcn.svg",
+    "machine learning/8.计算机视觉/faster-rcnn.svg",
+    "machine learning/8.计算机视觉/fast-rcnn.svg",
+    "machine learning/8.计算机视觉/8.9 转置卷积.md",
+    "machine learning/8.计算机视觉/8.8 语义分割和数据集.md",
+    "machine learning/8.计算机视觉/8.7 YOLO.md",
+    "machine learning/8.计算机视觉/8.6 单发多框检测.md",
+    "machine learning/8.计算机视觉/8.5 区域卷积神经网路.md",
+    "machine learning/8.计算机视觉/8.4 锚框.md",
+    "machine learning/8.计算机视觉/8.3 目标检测.md",
+    "machine learning/8.计算机视觉/8.2 微调.md",
+    "machine learning/8.计算机视觉/8.11 样式迁移.md",
+    "machine learning/8.计算机视觉/8.10 FCN.md",
+    "machine learning/8.计算机视觉/8.1 数据增广.md",
+    "machine learning/7.计算性能/7.3 单机多卡并行.md",
+    "machine learning/7.计算性能/7.2 更多的芯片.md",
+    "machine learning/7.计算性能/7.1 GPU CPU.md",
+    "machine learning/6.现代卷积神经网络/6.6 ResNet.md",
+    "machine learning/6.现代卷积神经网络/6.5 批量归一化.md",
+    "machine learning/6.现代卷积神经网络/6.4 GoogLeNet.md",
+    "machine learning/6.现代卷积神经网络/6.3 NiN.md",
+    "machine learning/6.现代卷积神经网络/6.2 VGG.md",
+    "machine learning/6.现代卷积神经网络/6.1 AlexNet.md",
+    "machine learning/5.卷积神经网络/5.7 LeNet.md",
+    "machine learning/5.卷积神经网络/5.6 池化层.md",
+    "machine learning/9.循环神经网络",
+    "machine learning/8.计算机视觉",
+    "machine learning/7.计算性能",
+    "machine learning/6.现代卷积神经网络",
+    "machine learning/5.卷积神经网络",
+    "machine learning/4.深度学习计算",
+    "machine learning/3.多层感知机",
+    "machine learning/2.线性神经网络",
+    "machine learning/13.优化算法",
+    "machine learning/12.自然语言处理"
+  ]
+}
