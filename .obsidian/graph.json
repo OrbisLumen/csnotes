@@ -8,23 +8,37 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:CS file:00",
+      "query": "path:\"CS/00 CS.md\"",
       "color": {
         "a": 1,
         "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:\"CS/CS61B/00 CS61B.md\"",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "path:\"CS/ML/00 ML.md\"",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
       }
     }
   ],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
+  "textFadeMultiplier": -0.5,
+  "nodeSizeMultiplier": 1.00046006944444,
   "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
-  "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 1.6325560624682738,
-  "close": false
+  "collapse-forces": false,
+  "centerStrength": 0.703472222222222,
+  "repelStrength": 18,
+  "linkStrength": 0.802647569444445,
+  "linkDistance": 240,
+  "scale": 1.0252842769153272,
+  "close": true
 }
