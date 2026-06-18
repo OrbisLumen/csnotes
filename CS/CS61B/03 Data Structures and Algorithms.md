@@ -1,6 +1,6 @@
 # Data Structures and Algorithms
 
-> Course order: [[CS/CS61B/02 Java Fundamentals|Previous: Java Fundamentals]] | [[CS/CS61B/00 CS61B|CS61B Home]] | [[CS/CS61B/04 Sorting Algorithms|Next: Sorting Algorithms]]
+> Course order: [Previous: Java Fundamentals](02%20Java%20Fundamentals.md) | [CS61B Home](00%20CS61B.md) | [Next: Sorting Algorithms](04%20Sorting%20Algorithms.md)
 
 ## Algorithm Evaluation
 

@@ -1,6 +1,6 @@
 # Terminal and Tools
 
-> Course order: [[CS/CS61B/00 CS61B|CS61B Home]] | Next: [[CS/CS61B/02 Java Fundamentals|Java Fundamentals]]
+> Course order: [CS61B Home](00%20CS61B.md) | Next: [Java Fundamentals](02%20Java%20Fundamentals.md)
 
 ## Common command
 - `cd`: change your working directory

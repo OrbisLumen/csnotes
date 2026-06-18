@@ -1,6 +1,6 @@
 # Sorting Algorithms
 
-> Course order: [[CS/CS61B/03 Data Structures and Algorithms|Previous: Data Structures and Algorithms]] | [[CS/CS61B/00 CS61B|CS61B Home]]
+> Course order: [Previous: Data Structures and Algorithms](03%20Data%20Structures%20and%20Algorithms.md) | [CS61B Home](00%20CS61B.md)
 
 
 ## Definition

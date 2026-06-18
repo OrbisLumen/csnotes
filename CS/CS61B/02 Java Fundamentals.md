@@ -1,6 +1,6 @@
 # Java Fundamentals
 
-> Course order: [[CS/CS61B/01 Terminal and Tools|Previous: Terminal and Tools]] | [[CS/CS61B/00 CS61B|CS61B Home]] | [[CS/CS61B/03 Data Structures and Algorithms|Next: Data Structures and Algorithms]]
+> Course order: [Previous: Terminal and Tools](01%20Terminal%20and%20Tools.md) | [CS61B Home](00%20CS61B.md) | [Next: Data Structures and Algorithms](03%20Data%20Structures%20and%20Algorithms.md)
 
 
 ## Basic
