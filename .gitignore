@@ -1,6 +1,3 @@
-# macOS
-.DS_Store
-
 # Obsidian device-specific workspace state
 .obsidian/workspace.json
 .obsidian/workspace-mobile.json
