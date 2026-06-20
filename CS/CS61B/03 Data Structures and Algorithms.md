@@ -327,7 +327,7 @@ public interface DisjointSets {
 
     | Constructor | connect | isConnected |
     | --- | --- | --- |
-    |$$\varTheta(N)$$ | $$O(N)$$ | $$O(N)$$ |
+    |$\varTheta(N)$ | $O(N)$ | $O(N)$ |
 
 
 2. QuickFindDS
@@ -335,7 +335,7 @@ public interface DisjointSets {
 
     | Constructor | connect | isConnected |
     | --- | --- | --- |
-    | $$\varTheta(N)$$ |  $$\varTheta(N)$$ |  $$\varTheta(1)$$ |
+    | $\varTheta(N)$ |  $\varTheta(N)$ |  $\varTheta(1)$ |
 
     ```java
     public class QuickFindDS implements DisjointSets {
@@ -371,7 +371,7 @@ public interface DisjointSets {
 
     | Constructor | connect | isConnected |
     | --- | --- | --- |
-    | $$\varTheta(N)$$ | $$O(N)$$ | $$O(N)$$ |
+    | $\varTheta(N)$ | $O(N)$ | $O(N)$ |
 
     (Trees can get very tall, so isConnected is O(N))
 
@@ -416,7 +416,7 @@ public interface DisjointSets {
 
     | Constructor | connect | isConnected |
     | --- | --- | --- |
-    | $$\varTheta(N)$$ | $$O(\log N)$$ | $$O(\log N)$$ |
+    | $\varTheta(N)$ | $O(\log N)$ | $O(\log N)$ |
 
 #### Completion
 
@@ -427,7 +427,7 @@ The improvement of WeightedQuickUnionDS, using path compression.
 
 | Constructor | connect | isConnected |
 | --- | --- | --- |
-| $$\varTheta(N)$$ | $$O(\alpha(N))$$ | $$O(\alpha(N))$$ |
+| $\varTheta(N)$ | $O(\alpha(N))$ | $O(\alpha(N))$ |
 
 (where α(N) is the inverse Ackermann function, which grows so slowly that for any practical N, it is less than 5.)
 
@@ -500,7 +500,7 @@ Using **Binary Min-Heap**
 
 | add | getSmallest | removeSmallest |
 | --- | --- | --- |
-| $$\varTheta(\log N)$$ | $$O(1)$$ | $$\varTheta(\log N)$$ |
+| $\varTheta(\log N)$ | $O(1)$ | $\varTheta(\log N)$ |
 
 
 
@@ -660,7 +660,7 @@ No duplicate keys allowed.
 
 | find | insert | delete |
 |---|---|---|
-|$$O(h)$$|$$O(h)$$|$$O(h)$$|
+|$O(h)$|$O(h)$|$O(h)$|
 
 - worst case: $\varTheta(N)$ (skewed tree)
 - balanced: $\varTheta(log N)$
