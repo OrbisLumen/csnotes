@@ -23,8 +23,8 @@ for all values of N greater than some $N_0$. (i.e. very large N)
 
 #### $O$ and ($\varOmega$)
 
-$R(N) \in O(f(N))$ -> $ R(N) \le k_2 \cdot f(N)$
-$R(N) \in \Omega(f(N))$ -> $ R(N) \le k_2 \cdot f(N)$
+$R(N) \in O(f(N))$ -> $R(N) \le k_2 \cdot f(N)$
+$R(N) \in \Omega(f(N))$ -> $R(N) \le k_2 \cdot f(N)$
 
 #### Amortized Runtime
 
