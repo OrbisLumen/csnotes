@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:\"CS/00 CS.md\"",
@@ -27,6 +27,13 @@
         "a": 1,
         "rgb": 11657298
       }
+    },
+    {
+      "query": "path:\"CS/BASIC/00 BASIC.md\"",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
     }
   ],
   "collapse-display": false,
@@ -39,6 +46,6 @@
   "repelStrength": 18,
   "linkStrength": 0.802647569444445,
   "linkDistance": 240,
-  "scale": 0.47156366095872576,
-  "close": true
+  "scale": 0.6475545411448784,
+  "close": false
 }
