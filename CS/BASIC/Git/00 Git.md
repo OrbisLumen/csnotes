@@ -1,6 +1,6 @@
 # Git
 
-> Basic Catalog: [返回基础知识目录](00%20BASIC.md)
+> Basic Catalog: [返回基础知识目录](../00%20BASIC.md)
 
 ## 一、新建代码库
 ```bash

@@ -2,8 +2,8 @@
 
 ## Core Notes
 
-1. [Git command](01%20Git.md)
-2. [Linux](02%20Linux.md)
+1. [Git command](Git/00%20Git.md)
+2. [Linux](Linux/00%20Linux.md)
 
 ## Review
 

@@ -26,8 +26,14 @@ Apply the following rules to every Markdown note in this directory and all of it
 - Do not use `\(...\)`, `\[...\]`, equation environments, align environments, or any other mathematics delimiters.
 - Do not alter dollar signs or mathematical-looking content inside fenced code blocks or inline code spans.
 
+## Tables
+
+- Put a blank line before every Markdown table, especially when the preceding line is a heading, bold text, list item, or paragraph.
+- Put a blank line after every Markdown table before starting the next block.
+- In table cells, wrap literal Markdown metacharacters or command syntax in inline code spans, such as `*`, `?`, `[characters]`, `|`, `-a`, or `Ctrl-a`.
+
 ## Verification
 
 - Verify that all internal Markdown links resolve to existing files.
 - Verify that all local image links resolve to existing assets.
-- Verify the link and mathematics rules before completing an edit.
+- Verify the link, table, and mathematics rules before completing an edit.
