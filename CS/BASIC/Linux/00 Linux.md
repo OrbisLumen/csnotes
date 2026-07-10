@@ -10,3 +10,4 @@
 > Chapter 1 [基础命令](01%20基础命令.md)
 > Chapter 2 [键盘操作](02%20键盘操作.md)
 > Chapter 3 [权限与进程](03%20权限与进程.md)
+> Chapter 4 [Shell 环境与配置](04%20Shell环境与配置.md)
